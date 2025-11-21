@@ -49,6 +49,7 @@
               cargo
               rustfmt
               rustPackages.clippy
+              just
             ];
           };
       }
